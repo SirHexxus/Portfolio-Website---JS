@@ -1,8 +1,14 @@
 .contact-banner {
-	background-image: url(../images/contact-page-banner.jpg);
+	background-image: 
+	linear-gradient(
+		rgba(4, 100, 255, 0.10), 
+		rgba(4, 100, 255, 0.60)
+	  ),
+	  url(../images/truck_scale_test_nighttime_square.jpg);
 	background-size: 100% 100%;
 	background-size: cover;
 	background-repeat: no-repeat;
+	background-position: center;
 	height: auto;
 }
 
