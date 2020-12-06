@@ -1,6 +1,11 @@
 .blog-background {
 	background-size: cover;
-	background-image: url(../images/blog-page-banner.jpg);
+	background-image: 
+	linear-gradient(
+		rgba(4, 100, 255, 0.50), 
+		rgba(4, 100, 255, 0.50)
+	  ),
+	  url(../images/double_truck_scale_test_portrait.jpg);
 	height: 450px;
 	background-repeat: no-repeat;
 	background-position: center center;
